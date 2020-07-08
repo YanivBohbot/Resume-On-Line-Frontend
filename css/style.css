@@ -476,7 +476,7 @@ background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
 }
 
 .fas fa-check-square {
-    left: 5px;
+    right: 5px;
 }
 
 .timeline-panel-container-inverted .timeline-panel:after
