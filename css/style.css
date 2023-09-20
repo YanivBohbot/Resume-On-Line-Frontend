@@ -488,7 +488,7 @@ background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
 }
 .timeline-heading h3
 {
-    margin-top: 5px;
+    margin-top: 25px;
     font-size: 20px;
     direction: rtl;
 
